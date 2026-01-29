@@ -1,7 +1,7 @@
 # Phenoscale drone-derived tree phenology extraction
 
 IN PROGRESS. This repository contains the code and data for the extraction and pre-processing of the drone-derived tree phenology and species composition data collected by the Sheldon Lab, University of Oxford. This repository is managed by
-Celestine Adelmant, Irene Martinez-Baquero and Jorgen Soraker. 
+Celestine Adelmant, Stephanie Koolen, Irene Martinez-Baquero and Jorgen Soraker. 
 
 ## Contents
 
