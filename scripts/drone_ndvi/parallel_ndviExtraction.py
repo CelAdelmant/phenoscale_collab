@@ -18,8 +18,8 @@ import pandas as pd
 from rasterstats import zonal_stats
 
 # ---------- USER CONFIG ----------
-ROOT_DATA = Path(r"C:/Users/reub0539/test_data")  # contains F1, F2, ...
-GPKG_DIR = Path(r"C:/Users/reub0539/Desktop/phenoscale_collab/data/drone_data/flight_areas")
+ROOT_DATA = Path(r"C:/Users/reub0539/Drone_data/Stitches 2024")  # contains F1, F2, ...
+GPKG_DIR = Path(r"C:/Users/reub0539/OneDrive - Nexus365/Desktop/phenoscale_collab/data/drone_data/flight_areas")
 
 FLIGHT_FOLDER_RE = re.compile(r"^F(\d+)$", re.IGNORECASE)
 DATE_TOKEN_RE = re.compile(r"F\d+_(\d{2}_\d{2}_\d{2})")
